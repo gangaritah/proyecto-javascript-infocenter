@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+#inventory-section, #add-product-form {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+button {
+    margin: 5px;
+}
+
+#message {
+    color: green;
+    font-weight: bold;
+}
+
+#product-list {
+    list-style-type: none;
+}
+
+li {
+    border: 1px solid #ccc;
+    margin: 5px;
+    padding: 5px;
+}
